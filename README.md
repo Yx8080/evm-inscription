@@ -9,3 +9,4 @@
     py evm_mint.py
 
 3、自行修改对应rpc节点和data的hex即可
+注：需要修改对应的链id
